@@ -28,20 +28,20 @@ The School Summary is similar to the district summary in that the impact was neg
 ### Revised School Summary:
 <img width="867" alt="School Summary Revised" src="https://user-images.githubusercontent.com/85654649/126922971-8b60100c-a46f-4862-be2b-59580bb1e24f.png">
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Replacing the ninth graders' math and reading scores barely impacted THS's scores relative to other schools. 
 
-### How does replacing the ninth-grade scores affect the following:
-#### Math and reading scores by grade
+- How does replacing the ninth-grade scores affect the following:
+-- Math and reading scores by grade
 As indicated above, replacing the ninth graders' math and reading scores barely impacted THS's scores
 
-#### Scores by school spending
+-- Scores by school spending
 The scores by school spending was not impacted.
 
-#### Scores by school size
+-- Scores by school size
 The scores by school size was not impacted.
 
-#### Scores by school type
+-- Scores by school type
 The scores by school type was not impacted.
 
 ## Summary
