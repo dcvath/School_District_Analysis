@@ -32,7 +32,7 @@ The School Summary is similar to the district summary in that the impact was neg
 Replacing the ninth graders' math and reading scores barely impacted THS's scores relative to other schools. 
 
 - How does replacing the ninth-grade scores affect the following:
--- Math and reading scores by grade
+#^  Math and reading scores by grade
 As indicated above, replacing the ninth graders' math and reading scores barely impacted THS's scores
 
 -- Scores by school spending
